@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter-chain/chapter-chain.iml" filepath="$PROJECT_DIR$/chapter-chain/chapter-chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-io/chapter-io.iml" filepath="$PROJECT_DIR$/chapter-io/chapter-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-redis/chapter-redis.iml" filepath="$PROJECT_DIR$/chapter-redis/chapter-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-spring/chapter-spring.iml" filepath="$PROJECT_DIR$/chapter-spring/chapter-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-spring2/chapter-spring2.iml" filepath="$PROJECT_DIR$/chapter-spring2/chapter-spring2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-thread/chapter-thread.iml" filepath="$PROJECT_DIR$/chapter-thread/chapter-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-webDemo/chapter-webDemo.iml" filepath="$PROJECT_DIR$/chapter-webDemo/chapter-webDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter2/chapter2.iml" filepath="$PROJECT_DIR$/chapter2/chapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3/chapter3.iml" filepath="$PROJECT_DIR$/chapter3/chapter3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4-test/chapter4-test.iml" filepath="$PROJECT_DIR$/chapter4-test/chapter4-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zzh.iml" filepath="$PROJECT_DIR$/zzh.iml" />
+    </modules>
+  </component>
+</project>

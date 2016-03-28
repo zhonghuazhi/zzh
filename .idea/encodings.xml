@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter-chain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter-io" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter-spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter-spring2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter-thread" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter-webDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4-test" charset="UTF-8" />
+  </component>
+</project>
